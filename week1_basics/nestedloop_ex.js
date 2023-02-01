@@ -7,3 +7,7 @@ function newFunction() {
         console.log("%c" + cubes[i], styles);
     }
 }
+/*
+*
+*
+*/
