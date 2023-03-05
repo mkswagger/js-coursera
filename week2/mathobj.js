@@ -12,3 +12,4 @@
 //math.sqrt(36)=6
 //math.cbrt(8)=2
 //math.abs(-10)=10
+//math.random()-random no between 0 and 0.99-decimal no
