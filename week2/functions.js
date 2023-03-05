@@ -12,3 +12,5 @@ function addTwonums(a,b){
 }
 addTwonums(3,4)
 addTwonums(5,6)
+/*values given to function definition are parameters and values 
+given to function call are function arguments*/
