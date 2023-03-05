@@ -9,3 +9,9 @@ var assmanager={
     skills:20,
     health:40
 }//key value pair
+
+var house={}
+house["name"]="apartment"
+house["price"]=300000
+house["colour"]="blue"
+console.log(house)
