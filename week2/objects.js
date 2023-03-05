@@ -15,3 +15,4 @@ house["name"]="apartment"
 house["price"]=300000
 house["colour"]="blue"
 console.log(house)
+//square bracket approach
