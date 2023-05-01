@@ -16,3 +16,13 @@ function letterfinder(word,match){
 }
 letterfinder([],[]);
 letterfinder("cat","c");
+
+var str= 'hello';
+console.log(str.match("jello"));
+
+try{
+    throw new Error();
+    console.log("hello");
+} catch(err){
+    console.log("bye");
+}
