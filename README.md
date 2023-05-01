@@ -1,6 +1,6 @@
 # js-coursera
 
-## RESOURCES YO REFER
+## RESOURCES TO REFER
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
