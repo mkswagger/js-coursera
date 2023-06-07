@@ -34,3 +34,35 @@ console.log(mydog);
 // new method
 
 var mycatto = new animal();
+
+// Inheritance -extend function
+
+class animal{};
+class bird extends animal{};
+class eagle extends bird{};
+
+// Encapsulation -
+
+"abc".toUpperCase(); // here the output alone is visible not the initial string
+
+// polymorphism
+
+const bicycle={
+    bell : function(){
+        console.log("ring ring")
+    }
+}
+
+const door={
+    bell: function(){
+        console.log("ring ring")
+    }}
+
+bicycle.bell()
+door.bell()
+
+//making the code polymorphic
+
+function ring(thing){
+    console.log(thing.bell());
+}
