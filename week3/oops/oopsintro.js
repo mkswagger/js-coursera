@@ -66,3 +66,8 @@ door.bell()
 function ring(thing){
     console.log(thing.bell());
 }
+
+
+
+
+
