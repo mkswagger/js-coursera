@@ -23,3 +23,14 @@ var purchase1={
 
 purchase1.totalprice();
 //code resuability is high in objects 
+
+//object.create() method  - used to create new objects
+
+class animal{}
+
+var mydog = Object.create(animal);
+console.log(mydog);
+
+// new method
+
+var mycatto = new animal();
