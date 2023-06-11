@@ -12,3 +12,8 @@ console.log(noMultiLine);
 // ya mannn 
 // lets cook
 //  meth';
+
+const meal= ['soup','steak','icecream']
+
+let[starter] = meal;
+console.log(starter);
